@@ -1,0 +1,6 @@
+Test specimen file.
+
+This file's introducing commit is deliberately contaminated: the git
+author and committer are set to an AI tool identity, and the commit
+message carries a Co-Authored-By trailer. It exists so the commit can be
+amended away and the fate of the original object measured.
